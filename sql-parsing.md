@@ -15,12 +15,12 @@ State-of-the-art parsers like pglast (Postgres) are amazingly sensitive and unab
 This work will most likely require a to build a system that combines classical SQL lexer and parser [4] [5] [6] with a more robust natural language processing (NLP)-based parsing approach.
 
 References:
-[1] https://en.wikipedia.org/wiki/SQL#Standardization_history/
-[2] Döhmen, Till, et al. "GitSchemas: A Dataset for Automating Relational Data Preparation Tasks." 2022 IEEE 38th International Conference on Data Engineering Workshops (ICDEW). IEEE, 2022. (https://github.com/tdoehmen/gitschemas)
-[3] https://github.com/xnuinside/simple-ddl-parser
-[4] https://tokern.io/blog/open-source-sql-parsers/
-[5] https://www.alibabacloud.com/blog/design-and-practice-of-self-developed-sql-parser_598414
-[6] Sunkle, Sagar, et al. "Generating highly customizable SQL parsers." Proceedings of the 2008 EDBT workshop on software engineering for tailor-made data management. 2008. (https://dl.acm.org/doi/pdf/10.1145/1385486.1385495?casa_token=FaklLapchTsAAAAA:6j0ynfNbFSIOKRFWmOaoQiF3UKTJtZAwlY3oQiEj-l43vsV_OF6ZJsNuvnN18lId7T4BVAjXCZr)
+ * [1] https://en.wikipedia.org/wiki/SQL#Standardization_history/
+ * [2] Döhmen, Till, et al. "GitSchemas: A Dataset for Automating Relational Data Preparation Tasks." 2022 IEEE 38th International Conference on Data Engineering Workshops (ICDEW). IEEE, 2022. (https://github.com/tdoehmen/gitschemas)
+ * [3] https://github.com/xnuinside/simple-ddl-parser
+ * [4] https://tokern.io/blog/open-source-sql-parsers/
+ * [5] https://www.alibabacloud.com/blog/design-and-practice-of-self-developed-sql-parser_598414
+ * [6] Sunkle, Sagar, et al. "Generating highly customizable SQL parsers." Proceedings of the 2008 EDBT workshop on software engineering for tailor-made data management. 2008. (https://dl.acm.org/doi/pdf/10.1145/1385486.1385495?casa_token=FaklLapchTsAAAAA:6j0ynfNbFSIOKRFWmOaoQiF3UKTJtZAwlY3oQiEj-l43vsV_OF6ZJsNuvnN18lId7T4BVAjXCZr)
  
  ## Work Environment
 
