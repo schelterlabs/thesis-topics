@@ -1,10 +1,7 @@
-##### Proposal
-AI Thesis project proposal
-
-##### Name
+## Name
 Efficient Inspection of Data Preprocessing in Native Machine Learning Pipelines using DuckDB
 
-##### Description
+## Description
 Machine Learning (ML) is increasingly used to automate impactful decisions, and the risks arising from this wide-spread use are garnering attention from policy makers, scientists, and the media. ML applications are often brittle with respect to their input data, which leads to concerns about their correctness, reliability, and fairness.
 
 It is a difficult and tedious task to ensure at development time that the end-to-end ML pipelines for such applications adhere to sound experimentation practices and compliance requirements. Identifying issues like technical bias introduced during data preprocessing currently requires a high degree of discipline, knowledge and time from data scientists.
@@ -21,7 +18,7 @@ As part of this thesis project, you will investigate joint execution of ML pipel
 
 Feel free to reach out if you have any questions.
 
-##### Initial literature
+## Initial literature
 * [Data distribution debugging in machine learning pipelines](https://stefan-grafberger.com/mlinspect-journal.pdf)
 * [Blue Elephants Inspecting Pandas](https://db.in.tum.de/~schuele/data/mlinspect.pdf?lang=en)
 * [DuckDB: an Embeddable Analytical Database](https://duckdb.org/pdf/SIGMOD2019-demo-duckdb.pdf)
@@ -29,15 +26,15 @@ Feel free to reach out if you have any questions.
 * [Efficient Data Management and Statistics with Zero-Copy Integration](https://dl.acm.org/doi/pdf/10.1145/2618243.2618265)
 
 
-##### Potential public datasets to explore
+## Potential public datasets to explore
 * [See example pipelines from ArgusEyes](https://github.com/schelterlabs/arguseyes/tree/master/arguseyes/example_pipelines)
 * [See example pipelines from mlinspect](https://github.com/stefan-grafberger/mlinspect/tree/master/example_pipelines)
 
 
-##### Work environment
+## Work environment
 The thesis will be supervised by [Stefan Grafberger](https://stefan-grafberger.com/), and the student will join the [AI for Retail Lab](https://stefan-grafberger.com/), which is a joint research effort between the [Information Retrieval Lab](https://irlab.science.uva.nl/) and the [Intelligent Data Engineering Lab](https://indelab.org/) at the UvA. Our lab includes several PhD students and research engineers with a varied set of interests and expertise revolving around applied machine learning and scalable data management.
 
-##### Expectations
+## Expectations
 This is an ambitious project for a self-motivated student capable of critical thinking and willing to take on a research-heavy thesis. The student is expected to develop a written structured work plan, and discuss updates in regular meetings with the supervisor.
 
 It is strongly encouraged to publish the resulting analysis and software under an open source license. Furthermore, the thesis may result in a publication at a high-quality ML or data management conference, which has often happened in the past for student projects supervised within our group.
